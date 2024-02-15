@@ -1,0 +1,7 @@
+outro.wav
+loop.wav
+intro.wav
+concat_list.txt
+build/*
+dist/*
+*.spec
