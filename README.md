@@ -7,4 +7,5 @@ Example using [Facade](https://www.youtube.com/watch?v=lH278b_WFsc) to create a 
 
 <audio controls="controls">
   <source type="audio/mp3" src="./loop_example.mp3"></source>
+  <p>Your browser does not support the audio element. Play the song <a href="./loop_example.mp3">here</a></p>
 </audio>
